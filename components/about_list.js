@@ -12,7 +12,7 @@ export const about = `
       <div class="row">
         <div class="col-md-6">
           <div class="card">
-            <img src="img/about-1.jpg" alt="Oferta única" class="card-img-top">
+            <img class="img-about" src="src/oferta.jpg" alt="Oferta única" class="card-img-top">
             <div class="card-body">
               <h5 class="card-title">Oferta única</h5>
               <p class="card-text">En Ghotam Motors siempre tenemos ofertas únicas y exclusivas para nuestros clientes. ¡No te las pierdas!</p>
@@ -21,7 +21,7 @@ export const about = `
         </div>
         <div class="col-md-6">
           <div class="card">
-            <img src="img/about-2.jpg" alt="Atención personalizada" class="card-img-top">
+            <img class="img-about" src="src/atencion.jpg" alt="Atención personalizada" class="card-img-top">
             <div class="card-body">
               <h5 class="card-title">Atención personalizada</h5>
               <p class="card-text">En Ghotam Motors creemos en la atención personalizada y en brindar un servicio de calidad a cada uno de nuestros clientes.</p>
@@ -30,7 +30,7 @@ export const about = `
         </div>
         <div class="col-md-6 mt-3">
           <div class="card">
-            <img src="img/about-3.jpg" alt="Pasión por los autos" class="card-img-top">
+            <img class="img-about" src="src/pasion.jpg" alt="Pasión por los autos" class="card-img-top">
             <div class="card-body">
               <h5 class="card-title">Pasión por los autos</h5>
               <p class="card-text">En Ghotam Motors compartimos la misma pasión que nuestros clientes por los super autos. ¡Ven y déjanos ser parte de tu sueño!</p>
@@ -39,7 +39,7 @@ export const about = `
         </div>
         <div class="col-md-6 mt-3">
           <div class="card">
-            <img src="img/about-4.jpg" alt="Servicio de calidad" class="card-img-top">
+            <img class="img-about" src="src/servicio.jpg" alt="Servicio de calidad" class="card-img-top">
             <div class="card-body">
               <h5 class="card-title">Servicio de calidad</h5>
               <p class="card-text">En Ghotam Motors nos esforzamos por ofrecer un servicio de calidad y excelencia a nuestros clientes.</p>
@@ -51,5 +51,13 @@ export const about = `
   </div>
 </div>
 </section>
+
+<style>
+  .img-about {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+</style>
 
 `

@@ -24,8 +24,8 @@ export const services = `
           <h5 class="card-title">Venta de repuestos</h5>
           <p class="card-text">Tenemos un amplio catálogo de repuestos de alta calidad para su vehículo.</p>
           <a href="#" class="btn btn-outline-dark">Saber más</a>
-        </div>
-      </div>
+        </div> 
+      </div> 
     </div>
     <div class="col-md-4">
       <div class="card h-100 border-0">
