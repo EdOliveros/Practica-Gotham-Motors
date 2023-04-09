@@ -5,7 +5,7 @@ const myHeader =
     <div class="container-fluid px-3">
         <a class="navbar-brand" href="index.html">
             <div class='d-flex align-items-center wrap'>
-                <img src="../src/logo.png" alt="Logo de la empresa" width="50" height="50">
+                <img src="src/logo.png" alt="Logo de la empresa" width="50" height="50">
                 <p class='m-0 px-3 d-none d-sm-flex d-md-flex'>Ghotam Motors</p>
             </div>
         </a>
