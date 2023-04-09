@@ -9,7 +9,7 @@ export const services = `
   <div class="row">
     <div class="col-md-4">
       <div class="card h-100 border-0">
-        <img class="img-ser" src="../src/reparacion.jpg" class="card-img-top" alt="Servicio 1">
+        <img class="img-ser" src="src/reparacion.jpg" class="card-img-top" alt="Servicio 1">
         <div class="card-body text-center">
           <h5 class="card-title">Mantenimiento y reparación</h5>
           <p class="card-text">Ofrecemos servicio de mantenimiento y reparación de alta calidad para todo tipo de vehículos.</p>
@@ -19,7 +19,7 @@ export const services = `
     </div>
     <div class="col-md-4">
       <div class="card h-100 border-0">
-        <img class="img-ser" src="../src/repuestos.jpg" class="card-img-top" alt="Servicio 2">
+        <img class="img-ser" src="src/repuestos.jpg" class="card-img-top" alt="Servicio 2">
         <div class="card-body text-center">
           <h5 class="card-title">Venta de repuestos</h5>
           <p class="card-text">Tenemos un amplio catálogo de repuestos de alta calidad para su vehículo.</p>
@@ -29,7 +29,7 @@ export const services = `
     </div>
     <div class="col-md-4">
       <div class="card h-100 border-0">
-        <img class="img-ser" src="../src/accesorios.jpg" class="card-img-top" alt="Servicio 3">
+        <img class="img-ser" src="src/accesorios.jpg" class="card-img-top" alt="Servicio 3">
         <div class="card-body text-center">
           <h5 class="card-title">Venta de accesorios</h5>
           <p class="card-text">Disponemos de una amplia variedad de accesorios para personalizar su vehículo.</p>
